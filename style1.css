@@ -1,0 +1,7 @@
+.quadrado {
+    width: 200px; /* Largura do quadrado */
+    height: 100px; /* Altura do quadrado */
+    background-color: lightblue; /* Cor de fundo do quadrado */
+    text-align: center; /* Centraliza o texto dentro do quadrado */
+    padding-top: 20px; /* Adiciona espaço acima do texto */
+  }
